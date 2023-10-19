@@ -13,3 +13,16 @@ Users are empowered to structure their tasks into boards, columns, and cards, of
 6. Providing support for tracking the status of tasks.
 7. Implementing a drag-and-drop feature to streamline task management.
 8. Designed with the goal of enhancing productivity in task and project coordination.
+
+   ## STEPS TO RUN :
+1. CLONE THE REPOSITORY :
+   gh repo clone saumya2527/Quickshell_FT_Frontend_Assignment
+
+2. INSTALL THE DEPENDANCIES :
+   npm install
+
+3. START THE REPOSITORY :
+   npm start
+
+4. OPENING THE BROWSER IN LOCAL HOST :
+   http://localhost:3000 
